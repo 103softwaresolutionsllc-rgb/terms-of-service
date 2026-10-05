@@ -119,3 +119,32 @@ footer.site-footer {
   color: var(--muted);
   padding: 1.5rem;
 }
+
+.contact-card {
+  background: var(--card);
+  border-radius: 14px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  padding: 1.75rem;
+  margin-top: 1.25rem;
+}
+
+.contact-card h2 {
+  margin: 0 0 .5rem;
+  font-size: 1.2rem;
+  color: var(--primary);
+}
+
+.contact-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1rem;
+}
+
+.contact-card li {
+  margin-bottom: .4rem;
+  font-size: .95rem;
+}
+
+.contact-card a {
+  color: var(--accent);
+}
