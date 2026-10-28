@@ -28,10 +28,8 @@ header.site-header {
 header.site-header .company-logo {
   width: min(220px, 72vw);
   height: auto;
-  border-radius: 18px;
   display: block;
   margin: 0 auto 1.25rem;
-  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.45), 0 0 24px rgba(80, 180, 255, 0.18);
 }
 
 header.site-header h1 {
